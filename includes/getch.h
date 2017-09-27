@@ -1,3 +1,9 @@
+#ifdef WIN32
+
+#include <conio.h>
+
+#endif
+
 #ifndef CHAR_INP_H_INCLUDED
 #define CHAR_INP_H_INCLUDED
 
