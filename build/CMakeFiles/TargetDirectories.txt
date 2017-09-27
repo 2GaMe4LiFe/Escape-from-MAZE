@@ -1,0 +1,3 @@
+/root/minimal_console_game/build/CMakeFiles/rebuild_cache.dir
+/root/minimal_console_game/build/CMakeFiles/Escape_from_MAZE.dir
+/root/minimal_console_game/build/CMakeFiles/edit_cache.dir
